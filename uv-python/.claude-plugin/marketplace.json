@@ -1,0 +1,6 @@
+{
+  "shortname": "uv-python",
+  "name": "uv-python",
+  "description": "使用 uv 进行 Python 项目开发与管理",
+  "skills": ["uv-python"]
+}
