@@ -1,6 +1,8 @@
 {
   "shortname": "uv-python",
   "name": "uv-python",
+  "owner": "ShiWenber",
   "description": "使用 uv 进行 Python 项目开发与管理",
+  "plugins": ["uv-python"],
   "skills": ["uv-python"]
 }
